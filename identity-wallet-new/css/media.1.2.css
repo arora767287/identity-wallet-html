@@ -1,0 +1,815 @@
+@media screen and (max-width: 1300px) {
+    label[for="nav-trigger"] {
+        right: 20px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 98%;
+    }
+
+    .aboutus-section img.abtlt {
+        max-width: 420px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 98%;
+    }
+
+    .mainpage-section {
+        background: url(/Users/nityaarora/Downloads/abstract-digital-technology-background-with-network-connection-lines/25552.jpg);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+
+}
+
+@media screen and (max-width: 1100px) {
+    .carousel-caption h3 b {
+        font-size: 34px;
+    }
+
+    .carousel-caption h3 {
+        font-size: 28px;
+    }
+
+    .aboutmobility2.segments_all ul li {
+        width: 48%;
+    }
+
+    .buyservices_form_div input[type="text"].rytnumberinput {
+        width: 85%;
+    }
+
+    .carousel-caption p {
+        line-height: 25px;
+        font-size: 16px;
+    }
+
+    .bannercolorfont1 {
+        font-size: 31px;
+    }
+
+    .bannercolorfont2 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .menus_right li {
+        padding: 0 15px;
+    }
+
+    .menus_right li a {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .carousel-caption {
+        width: 45%;
+    }
+
+    .aboutus-icon h5 {
+        font-size: 15px;
+    }
+
+    .iso-certified {
+        width: 105px;
+    }
+
+    .cmmi {
+        width: 125px;
+    }
+
+    .menus_right {
+        margin: 31px 30px 0 0;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .carousel-caption h3 {
+        font-size: 24px;
+    }
+
+    .carousel-caption h3 b {
+        font-size: 28px;
+    }
+
+    .displaynone-mobile {
+        display: none;
+    }
+
+    .carousel-caption p {
+        font-size: 14px;
+    }
+
+    .info-team, .management-team-particular:nth-child(2n) .info-team {
+        width: 75%;
+    }
+
+    .buyservices_form_div input[type="text"].rytnumberinput {
+        width: 83%;
+    }
+
+    .testimonials-full {
+        height: 470px;
+    }
+
+    .sociallinks-footer b {
+        font-size: 16px;
+        line-height: 34px;
+    }
+
+    .cmmi {
+        width: 140px;
+    }
+
+    .menus_right {
+        margin: 30px 30px 0 0;
+    }
+
+    .iso-certified {
+        width: 103px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .carousel-caption {
+        padding: 30px 20px;
+    }
+
+    .menus_right li a {
+        font-size: 14px;
+    }
+
+    .menus_right li {
+        padding: 0 10px;
+    }
+
+    .fastfacts .col-sm-3 h4 {
+        font-size: 16px;
+    }
+
+    .ourfocus_boxes h4 {
+        font-size: 18px;
+    }
+
+    .fastfacts .col-sm-3 h5 {
+        font-size: 48px;
+    }
+
+    .carousel-caption {
+        width: 60%;
+    }
+
+    .menus_right {
+        margin: 31px 60px 0 0;
+    }
+
+    .copyright {
+        margin-top: 10px;
+    }
+
+    .buyservices_form_div input[type="text"].rytnumberinput {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 830px) {
+    .ourfocus_boxes h4 {
+        font-size: 16px;
+    }
+
+    .contact-tab ul li a {
+        padding: 0 0px;
+    }
+
+    .info-team, .management-team-particular:nth-child(2n) .info-team {
+        width: 72%;
+    }
+
+    .aboutus-icon {
+        width: 32%;
+    }
+
+    .aboutus-icon h5 {
+        font-size: 14px;
+    }
+
+    .aboutus-section img.abtlt {
+        max-width: 380px;
+    }
+
+    .sociallinks-footer b {
+        line-height: 15px;
+    }
+
+    .menus_right li {
+        padding: 0 7px;
+    }
+
+    .menus_right li a {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .carousel-caption h3 {
+        font-size: 20px;
+    }
+
+    .carousel-caption h3 b {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .carousel-caption p {
+        font-size: 13px;
+        line-height: 22px;
+        margin: 12px 0 0;
+    }
+
+    header {
+        position: relative;
+    }
+
+    .carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right {
+        font-size: 30px;
+    }
+
+    .nityo_glance {
+        margin: 16px 0 0;
+    }
+
+    .ourfocus_boxes .col-sm-4:nth-child(2) {
+        border-right: 1px solid #017dc7;
+    }
+
+    .ourfocus_boxes .col-sm-4:nth-child(4) {
+        border-right: 1px solid #017dc7;
+        border-bottom: none;
+    }
+
+    .ourfocus_boxes .col-sm-4:nth-child(3) {
+        border-right: none;
+    }
+
+    .fastfacts {
+        height: 470px;
+    }
+
+    .fastfacts .col-sm-3 {
+        margin-bottom: 20px;
+    }
+
+    .carousel-caption {
+        top: 13%;
+    }
+
+    .client-testimonials .caption::after {
+        bottom: -19px;
+        left: 25px;
+        right: auto;
+        top: auto;
+        transform: rotate(90deg);
+    }
+
+    .menus_right {
+        float: left;
+        margin: 12px 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .menus_right li:first-child {
+        float: left;
+    }
+
+    .menus_right li:nth-child(2) {
+        margin-left: 20px;
+    }
+
+    .menus_right li {
+        float: none;
+    }
+
+    .aboutus_bg_intro, .mobilitydesc {
+        text-align: center;
+    }
+
+    .aboutmobility2 ul li span {
+        display: inline-block;
+        float: none;
+        text-align: left;
+    }
+
+    .aboutus_bg_intro img {
+        margin: 10px 0 0;
+        width: 35%;
+    }
+
+    .footer_about {
+        margin-bottom: 20px;
+    }
+
+    .sociallinks-footer .social {
+        margin: 10px 0 0 0;
+    }
+
+    .mobilitydesc img {
+        width: 60%;
+    }
+
+    .mobilitydesc i img {
+        width: 32px;
+    }
+
+    .aboutmobility2 ul li i {
+        display: inline-block;
+        float: none;
+    }
+
+    .carousel-caption p {
+        font-size: 16px;
+    }
+
+    .bannercolorfont1 {
+        font-size: 22px;
+    }
+
+    .bannercolorfont {
+        font-size: 24px;
+    }
+
+    .bannercolorfont3 {
+        font-size: 18px;
+    }
+
+    .aboutus-section img.abtlt {
+        display: none;
+    }
+
+    .service-one {
+        display: inline-block;
+        width: 32%;
+    }
+
+    .iphoneimg-home {
+        min-width: 30%;
+        margin-bottom: 30px;
+    }
+
+    .iso-certified {
+        width: 80px;
+        position: absolute;
+        top: 15px;
+        left: 200px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .fullbg {
+        padding: 16px 0 20px;
+    }
+
+    .heading-common h4 {
+        font-size: 28px;
+        padding-bottom: 5px;
+        width: 60%;
+    }
+
+    .heading-common p {
+        font-size: 13px;
+        line-height: 22px;
+        margin: 12px 0 0;
+    }
+
+    .fastfacts .col-sm-3 h5 {
+        font-size: 43px;
+    }
+
+    .fastfacts .col-sm-3 h4 {
+        font-size: 14px;
+    }
+
+    .fastfacts {
+        height: 428px;
+    }
+
+    .contact-tab ul li span {
+        padding: 0 5px;
+    }
+
+    .buyservices_form li label {
+        width: 100%;
+        padding-bottom: 5px;
+    }
+
+    .buyservices_form_div {
+        width: 100%;
+    }
+
+    .info-team, .management-team-particular:nth-child(2n) .info-team {
+        width: 65%;
+    }
+
+    .buyservices_form_div input[type="text"].rytnumberinput {
+        width: 76%;
+    }
+
+    .testimonials-full {
+        height: 500px;
+    }
+
+    .aboutus-section .heading-section {
+        padding-top: 5px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .carousel-caption {
+        padding: 15px 20px;
+    }
+
+    .carousel-caption h3 b {
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    .carousel-caption h3 {
+        font-size: 17px;
+    }
+
+    .carousel-caption {
+        top: 6%;
+    }
+
+    .services_top h4, .services_top h5 {
+        font-size: 23px;
+    }
+
+    .arrowdown i {
+        font-size: 22px;
+        line-height: 16px;
+    }
+
+    .services_top {
+        height: auto;
+    }
+
+    .info-team, .management-team-particular:nth-child(2n) .info-team {
+        width: 60%;
+    }
+
+    .aboutmobility2.segments_all ul li {
+        width: 100%;
+    }
+
+    .client-testimonials .caption i {
+        font-size: 20px;
+    }
+
+    .about_top_textcenter {
+        padding: 37px 0;
+    }
+
+    .para-quote {
+        padding: 0;
+    }
+
+    .testimonial-pic h5 {
+        font-size: 30px;
+        height: 70px;
+        line-height: 65px;
+        width: 70px;
+    }
+
+    .bannercolorfont {
+        font-size: 16px;
+    }
+
+    .carousel-caption h3 b {
+        line-height: 20px;
+    }
+
+    .carousel-caption p {
+        font-size: 13px;
+    }
+
+    .carousel-caption {
+        min-height: 210px;
+    }
+
+    .menus_right li:nth-child(2) {
+        margin-left: 14px;
+    }
+
+    .left.carousel-control i, .right.carousel-control i {
+        top: 34%;
+    }
+
+    .heading-section h5 {
+        font-size: 30px;
+    }
+
+    .heading-section h6 img {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    footer .col-xs-6 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .margintop40 {
+        margin-top: 20px;
+    }
+
+    .menus_right li:first-child {
+        width: 34%;
+    }
+
+    .cmmi {
+        width: 100%;
+    }
+
+    .menus_right li {
+        padding: 0 5px;
+    }
+
+    .menus_right li a {
+        font-size: 12px;
+    }
+
+    .sociallinks-footer .social li {
+        margin-right: 8px;
+    }
+
+    .client-testimonials .col-xs-3, .client-testimonials .col-xs-9 {
+        width: 100%;
+    }
+
+    .testimonial-pic {
+        text-align: center;
+        margin-bottom: 12px;
+    }
+
+    .clientlogos .col-xs-6 {
+        width: 100%;
+    }
+    .clientlogos2 .col-xs-6 {
+        width: 100%;
+    }
+
+    .carousel-caption h3 {
+        font-size: 15px;
+    }
+
+    .carousel-caption h3 b {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .carousel-caption {
+        top: 9%;
+    }
+
+    .contactus-locations .col-xs-6 {
+        width: 100%;
+    }
+
+    .buyservices_form {
+        width: 98%;
+    }
+
+    .img-team, .management-team-particular:nth-child(2n) .img-team {
+        width: 120px;
+    }
+
+    .info-team, .management-team-particular:nth-child(2n) .info-team {
+        width: 60%;
+    }
+
+    .carousel-caption {
+        min-height: auto;
+    }
+
+    .service-one {
+        width: 100%;
+    }
+
+    .nityobynum .col-sm-6 {
+        width: 100%;
+        border-bottom: 2px solid #94a2a5;
+        border-right: none;
+    }
+
+    .testimonials-full {
+        height: 550px;
+    }
+
+    .menus_right li:nth-child(2) {
+        margin-left: 0;
+        width: 137px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .heading-common h4 {
+        font-size: 20px;
+    }
+
+    .sociallinks-footer .social {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .sociallinks-footer .social li span {
+        display: none;
+    }
+
+    .menus_right li:nth-child(2) {
+        margin-left: 0;
+    }
+
+    .margintop40 {
+        margin-top: 10px;
+    }
+
+    .fastfacts {
+        height: 460px;
+    }
+
+    .ourfocus_boxes h4 {
+        font-size: 14px;
+    }
+
+    .carousel-caption {
+        width: auto;
+    }
+
+    .services_top h4, .services_top h5 {
+        font-size: 19px;
+    }
+
+    .bannercolorfont {
+        font-size: 11px;
+    }
+
+    .img-team, .management-team-particular:nth-child(2n) .img-team {
+        text-align: center;
+        width: 100%;
+    }
+
+    .management-team img {
+        width: 110px;
+    }
+
+    .info-team, .management-team-particular:nth-child(2n) .info-team {
+        margin: 10px 0 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    .awardswon .col-xs-6 {
+        width: 100%;
+    }
+
+    .award_prtclr {
+        height: 220px;
+    }
+
+    .carousel-caption h3 b, .carousel-caption h3 {
+        font-size: 14px;
+    }
+
+    .fastfacts .col-sm-3 h5 {
+        font-size: 28px;
+    }
+
+    .testimonials-full {
+        height: 670px;
+    }
+
+    .fastfacts .col-sm-3 h4 {
+        font-size: 13px;
+    }
+
+    .carousel-caption p {
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .carousel-caption {
+        padding: 5px 10px;
+        width: 77%;
+    }
+
+    .carousel-caption p {
+        margin-top: 0;
+    }
+
+    .iso-certified {
+        width: 60px;
+        position: absolute;
+        top: 20px;
+        left: 170px;
+    }
+
+    .menus_right li {
+        padding: 0 4px;
+        float: left;
+    }
+
+    .menus_right li:nth-child(2) {
+        width: 128px;
+    }
+
+    .menus_right li a {
+        font-size: 10px;
+    }
+}
+
+.flext_row > .col-md-3 {
+    height: 550px;
+}
+
+.module_list > ul > li {
+    padding-left: 20px;
+    position: relative;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+
+.module_list > ul > li > img {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: 0;
+    top: 4px;
+}
+
+.alliances-clientele .img-responsive {
+    width: 100%;
+}
+
+.alliances-clientele .nav > li > a {
+    margin-bottom: 0 !important;
+}
+
+.alliances-clientele .tab-content {
+    border: solid 1px #ddd;
+    margin-top: -1px !important;
+    padding: 2em;
+}
+
+.alliances-clientele .nav > li > a img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.alliances-clientele .nav > li > a:hover img,
+.alliances-clientele .nav > li.active > a img {
+    -webkit-filter: grayscale(0); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0);
+}
+
+.alliances-clientele .nav > li > a:hover {
+    background: transparent;
+}
+
+.alliance_list {
+    overflow: hidden;
+    width: 100%;
+    clear: both;
+}
+
+@media all and (max-width: 768px) {
+    .alliance_list > li.active > a {
+        border-bottom: solid 1px #fff !important;
+    }
+
+    .alliance_list > li {
+        float: left !important;
+        width: calc(100% / 6);
+    }
+
+    .alliances-clientele .tab-content {
+        margin-top: -8px !important;
+    }
+}
+
+@media all and (max-width: 520px) {
+    .alliances-clientele .tab-content {
+        margin-top: -2px !important;
+    }
+}
